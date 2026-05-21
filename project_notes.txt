@@ -1,0 +1,24 @@
+Project Title:
+AI SEO Blog & Content Cluster Generator
+
+Business Chosen:
+GlowUp Beauty Salon
+
+Objective:
+To generate SEO-optimized blog content using AI and prompt engineering.
+
+Tools Used:
+- Windsurf Editor
+- ChatGPT
+
+Features:
+- SEO blog generation
+- Keyword optimization
+- Content clusters
+- Blog structuring
+
+Skills Learned:
+- SEO content writing
+- Prompt engineering
+- AI content workflows
+- Search intent optimization

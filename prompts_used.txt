@@ -1,0 +1,22 @@
+Prompt 1:
+
+Act as an SEO content strategist and professional blog writer.
+
+Create an SEO-optimized blog pack for a beauty salon business called "GlowUp Beauty Salon".
+
+Include:
+1. SEO Blog Title
+2. Meta Description
+3. Blog Outline (H1, H2, H3 structure)
+4. Full SEO Blog Content
+5. SEO Keywords
+6. Internal Linking Ideas (Content Cluster)
+7. CTA Section
+
+Tone should be:
+- Professional
+- Helpful
+- SEO-friendly
+- Easy to read
+
+Make the content business-focused and optimized for search intent.
